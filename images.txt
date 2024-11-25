@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server
+rustdesk/rustdesk-server-pro
