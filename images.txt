@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server-pro
+ubuntu:2204
