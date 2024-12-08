@@ -1,1 +1,3 @@
+rustdesk-server
+rustdesk-server-pro
 minio
