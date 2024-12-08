@@ -1,1 +1,9 @@
 ubuntu
+mysql
+mysql:5.7
+nginx
+redis
+alpine
+rustdesk-server
+rustdesk-server-pro
+minio
