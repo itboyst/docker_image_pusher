@@ -1,3 +1,3 @@
-rustdesk-server
-rustdesk-server-pro
+rustdesk/rustdesk-server-pro
+rustdesk/rustdesk-server
 minio
