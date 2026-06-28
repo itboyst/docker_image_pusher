@@ -1,2 +1,5 @@
 mysql:8.0
 jeessy/ddns-go
+teslamate/teslamate:latest
+teslamate/grafana:latest
+eclipse-mosquitto:2
